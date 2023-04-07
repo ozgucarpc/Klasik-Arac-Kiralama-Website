@@ -165,7 +165,7 @@ function BookCar() {
               <h2>Klasik araç kiralama</h2>
 
               <p className="error-message">
-                All fields required! <i className="fa-solid fa-xmark"></i>
+                Tüm alanlar gereklidir! <i className="fa-solid fa-xmark"></i>
               </p>
 
               <p className="booking-done">
