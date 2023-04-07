@@ -1,4 +1,3 @@
-<div align='center'><img style="width:30%" src='https://user-images.githubusercontent.com/126238825/230613476-9d64a71e-13f0-40d8-9fd2-e3fecfefebcc.png'/></div>
 
 <h2>Proje hakkında</h2>
 
